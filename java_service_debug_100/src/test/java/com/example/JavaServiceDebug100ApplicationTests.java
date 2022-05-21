@@ -1,4 +1,4 @@
-package com.example.java_service_debug_100;
+package com.example;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
